@@ -10,7 +10,7 @@
 
 https://www.slimjet.com/chrome/google-chrome-old-version.php  这里版本又太老了
 
-就从以前安装过 Chrome 的服务器上，找了 120.0.6099.216 版，放 github 存档
+就从以前安装过 Chrome 的服务器上，找了 120.0.6099.216 、123.0.6312.58 两个版本，放 github 存档
 
 
 
